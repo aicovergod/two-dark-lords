@@ -7,7 +7,21 @@
     "Ginny Weasley",
     "Kingsley Shacklebolt",
     "Draco Malfoy",
-    "Luna Lovegood"
+    "Luna Lovegood",
+    "Samuel Price"
+  ],
+  "factions": [
+    "ICW",
+    "British Ministry of Magic",
+    "UN Taskforce Aegis",
+    "UN Taskforce Janus",
+    "UN Taskforce Cerberus",
+    "Taskforce Janus",
+    "Order Remnants",
+    "Giant clans",
+    "Werewolf legions",
+    "Free Goblin syndicates",
+    "No-Maj solidarity cells"
   ],
   "locations": [
     "London",
@@ -16,58 +30,38 @@
     "Ministry of Magic",
     "King's Cross",
     "The Burrow",
-    "ICW",
-    "UN",
-    "Taskforce Janus"
+    "ICW HQ",
+    "UN Headquarters",
+    "Westminster"
   ],
   "abilities": {
     "Aureate Bastion": {
       "book_min": 1,
-      "allowed_scales": [
-        "local",
-        "city_block"
-      ]
+      "allowed_scales": ["local", "city_block"]
     },
     "Pulse Transfigure": {
       "book_min": 1,
-      "allowed_scales": [
-        "local"
-      ]
+      "allowed_scales": ["local"]
     },
     "Severing Silence": {
       "book_min": 1,
-      "allowed_scales": [
-        "local"
-      ]
+      "allowed_scales": ["local"]
     },
     "Ward Lattice": {
       "book_min": 2,
-      "allowed_scales": [
-        "city_block",
-        "city",
-        "region"
-      ]
+      "allowed_scales": ["city_block", "city", "region"]
     },
     "Ritual Dampeners": {
       "book_min": 3,
-      "allowed_scales": [
-        "city",
-        "region"
-      ]
+      "allowed_scales": ["city", "region"]
     },
     "Scry-Ban": {
       "book_min": 4,
-      "allowed_scales": [
-        "region",
-        "continental"
-      ]
+      "allowed_scales": ["region", "continental"]
     },
     "Weather Rite": {
       "book_min": 5,
-      "allowed_scales": [
-        "region",
-        "continental"
-      ]
+      "allowed_scales": ["region", "continental"]
     }
   },
   "anchor_start": {
