@@ -14,6 +14,7 @@
 | char:draco_malfoy | Draco Malfoy | Slytherin political node | 5 | |
 | char:luna_lovegood | Luna Lovegood | Mystic observer | 5 | |
 | char:samuel_price | Samuel Price | Muggle operative, Taskforce Janus | 4 | Acts as liaison; carries RF-mesh prototype |
+| char:percy_weasley | Percy Weasley | Ministry bureaucrat, antagonist | 4 | Pushes for containment policies post-Shatter Night |
 
 
 ## Factions
@@ -23,6 +24,8 @@
 - Order Remnants (Hermione-led)
 - Giant clans, Werewolf legions, Free Goblin syndicates, No-Maj solidarity cells
 - Taskforce Janus (Muggle special-ops unit; specializes in counter-magic tech and containment)
+- UK Parliament (Muggle political body, officially aware of magic post-Shatter Night)
+- Press/Media (Daily Prophet, UK tabloids, BBC, journalists shaping public perception)
 
 
 ## Locations
@@ -54,6 +57,7 @@
 
 ## Timeline (UTC ISO — high level)
 - 2026-01-15T20:00:00Z — The Shatter Night: Harry’s aureate dome over the Thames exposes magic to Muggles. First contact with Taskforce Janus (Samuel Price).
+- 2026-01-16T02:00:00Z — Parliament and Ministry crisis meetings after the Shatter Night. Percy Weasley pushes containment policies. ICW summons emergency session demanding Harry’s surrender. Hermione publicly defends Harry before Muggle and magical press at Westminster.
 
 
 ## Glossary
