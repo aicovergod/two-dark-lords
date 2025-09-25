@@ -1,0 +1,33 @@
+{
+  "book": 1,
+  "chapter": 1,
+  "title": "The Shatter Night",
+  "word_count": 0,
+  "pov": [
+    "Harry"
+  ],
+  "timestamp_utc": "2025-09-25T08:24:15Z",
+  "locations": [
+    "London",
+    "Thames"
+  ],
+  "characters_present": [
+    "Harry Potter"
+  ],
+  "new_characters_introduced": [],
+  "anchors_changed": {
+    "Harry": 0
+  },
+  "power_usage": [
+    {
+      "ability": "Aureate Bastion",
+      "scale": "city_block",
+      "soul_scour_cost": 1
+    }
+  ],
+  "important_facts_added": [
+    "Magic exposure event witnessed by the public over the Thames."
+  ],
+  "continuity_flags": [],
+  "notes_for_bible": "Add exposure event to timeline if not already present."
+}

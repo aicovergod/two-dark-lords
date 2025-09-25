@@ -1,0 +1,76 @@
+{
+  "characters": [
+    "Harry Potter",
+    "Lord Voldemort",
+    "Tom Riddle",
+    "Hermione Granger",
+    "Ginny Weasley",
+    "Kingsley Shacklebolt",
+    "Draco Malfoy",
+    "Luna Lovegood"
+  ],
+  "locations": [
+    "London",
+    "Hogwarts",
+    "Black Citadel",
+    "Ministry of Magic",
+    "King's Cross",
+    "The Burrow",
+    "ICW",
+    "UN",
+    "Taskforce Janus"
+  ],
+  "abilities": {
+    "Aureate Bastion": {
+      "book_min": 1,
+      "allowed_scales": [
+        "local",
+        "city_block"
+      ]
+    },
+    "Pulse Transfigure": {
+      "book_min": 1,
+      "allowed_scales": [
+        "local"
+      ]
+    },
+    "Severing Silence": {
+      "book_min": 1,
+      "allowed_scales": [
+        "local"
+      ]
+    },
+    "Ward Lattice": {
+      "book_min": 2,
+      "allowed_scales": [
+        "city_block",
+        "city",
+        "region"
+      ]
+    },
+    "Ritual Dampeners": {
+      "book_min": 3,
+      "allowed_scales": [
+        "city",
+        "region"
+      ]
+    },
+    "Scry-Ban": {
+      "book_min": 4,
+      "allowed_scales": [
+        "region",
+        "continental"
+      ]
+    },
+    "Weather Rite": {
+      "book_min": 5,
+      "allowed_scales": [
+        "region",
+        "continental"
+      ]
+    }
+  },
+  "anchor_start": {
+    "Harry Potter": 3
+  }
+}
