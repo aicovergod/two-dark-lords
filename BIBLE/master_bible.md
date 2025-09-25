@@ -13,6 +13,8 @@
 | char:kingsley_shacklebolt | Kingsley Shacklebolt | Minister / institutionalist | 6 | |
 | char:draco_malfoy | Draco Malfoy | Slytherin political node | 5 | |
 | char:luna_lovegood | Luna Lovegood | Mystic observer | 5 | |
+| char:samuel_price | Samuel Price | Muggle operative, Taskforce Janus | 4 | Acts as liaison; carries RF-mesh prototype |
+
 
 ## Factions
 - ICW (International Confederation of Wizards)
@@ -20,6 +22,8 @@
 - UN Taskforces: Aegis, Janus, Cerberus
 - Order Remnants (Hermione-led)
 - Giant clans, Werewolf legions, Free Goblin syndicates, No-Maj solidarity cells
+- Taskforce Janus (Muggle special-ops unit; specializes in counter-magic tech and containment)
+
 
 ## Locations
 | id | name | type | notes |
@@ -49,7 +53,8 @@
 | Weather Rite | 5 | region, continental |
 
 ## Timeline (UTC ISO — high level)
-- 2026-01-15T20:00:00Z — The Shatter Night (magic exposed over the Thames).
+- 2026-01-15T20:00:00Z — The Shatter Night: Harry’s aureate dome over the Thames exposes magic to Muggles. First contact with Taskforce Janus (Samuel Price).
+
 
 ## Glossary
 - Anchor: object/person/location stabilizing identity against Soul-Scorch.
