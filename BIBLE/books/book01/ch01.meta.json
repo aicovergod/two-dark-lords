@@ -2,15 +2,35 @@
   "book": 1,
   "chapter": 1,
   "title": "The Shatter Night",
-  "word_count": 200, 
+  "word_count": 4200,
   "pov": ["Harry"],
   "timestamp_utc": "2026-01-15T20:00:00Z",
-  "locations": ["London","Thames"],
-  "characters_present": ["Harry Potter"],
-  "new_characters_introduced": [],
-  "anchors_changed": {"Harry": 0},
-  "power_usage": [],
-  "important_facts_added": ["Magic exposure event witnessed by the public over the Thames."],
+  "locations": ["London", "Thames", "Waterloo Bridge", "South Bank"],
+  "characters_present": [
+    "Harry Potter",
+    "Hermione Granger",
+    "Kingsley Shacklebolt",
+    "Samuel Price"
+  ],
+  "new_characters_introduced": ["Samuel Price"],
+  "anchors_changed": { "Harry": -1 },
+  "power_usage": [
+    {
+      "ability": "Aureate Bastion",
+      "scale": "city_block",
+      "soul_scour_cost": 1
+    },
+    {
+      "ability": "Pulse Transfigure",
+      "scale": "local",
+      "soul_scour_cost": 1
+    }
+  ],
+  "important_facts_added": [
+    "Magic exposure event witnessed publicly over the Thames.",
+    "Phones captured Harry conjuring an aureate dome.",
+    "First contact with Taskforce Janus via Samuel Price."
+  ],
   "continuity_flags": [],
-  "notes_for_bible": "Add exposure event to timeline if not already present."
+  "notes_for_bible": "Update timeline with Shatter Night; add Samuel Price and Taskforce Janus to canon."
 }
